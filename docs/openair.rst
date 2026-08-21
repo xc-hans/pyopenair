@@ -8,7 +8,7 @@ OpenAir specifications
 `OpenAir format <http://www.winpilot.com/usersguide/userairspace.asp>`_ is an airspace and terrain description language. It is an easy to use and publicly available standard for displaying map information.
 User can add or modify the data himself, therefore having a full control over what is being displayed on the screen.
 
-More details `OpenAir specification page <http://www.winpilot.com/usersguide/userairspace.asp>`_
+More details `OpenAir specification page <http://www.winpilot.com/usersguide/userairspace.asp>`_ As teh WInPilot homepage is no longer online, an alternative can be the `NaviTer OpenAir specification page <http://https://github.com/naviter/seeyou_file_formats/blob/main/OpenAir_File_Format_Support.md>`_
 
 AIRSPACE related record types
 -----------------------------
